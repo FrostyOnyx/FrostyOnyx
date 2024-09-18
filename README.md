@@ -1,4 +1,13 @@
-## Hi there 👋
+## Hello there, my name is Jordan! 👋
+
+### Aspiring AI Engineer | Software Developer | Lifelong Learner Dedicated to Technological Innovation
+A lifelong learner at heart, I am passionate about leveraging my skills in artificial intelligence and software development to drive technological advancements and contribute to the tech industry’s growth. I look forward to connecting with others who share my enthusiasm for innovation and technology.
+
+![2024-06-03](https://github.com/user-attachments/assets/58460120-3de7-4baf-8ba7-169e8d140704)
+
+
+
+
 
 <!--
 **FrostyOnyx/FrostyOnyx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
